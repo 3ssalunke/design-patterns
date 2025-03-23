@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{FC16F0BC-90A9-4895-910B-97E0C429D50C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{58F994ED-6AC4-4C1C-B772-2F94DEE9A687}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{FC16F0BC-90A9-4895-910B-97E0C429D50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC16F0BC-90A9-4895-910B-97E0C429D50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC16F0BC-90A9-4895-910B-97E0C429D50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F994ED-6AC4-4C1C-B772-2F94DEE9A687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F994ED-6AC4-4C1C-B772-2F94DEE9A687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F994ED-6AC4-4C1C-B772-2F94DEE9A687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F994ED-6AC4-4C1C-B772-2F94DEE9A687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
